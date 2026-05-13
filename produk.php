@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Produk - faiz</title>
+  <title>Produk - Rizmewekk</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -235,14 +235,14 @@
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer">
     <div class="copyright">
-      &copy; Copyright <strong><span>faiz</span></strong>. All Rights Reserved
+      &copy; Copyright <strong><span>Rizmewekk</span></strong>. All Rights Reserved
     </div>
     <div class="credits">
       <!-- All the links in the footer should remain intact. -->
       <!-- You can delete the links only if you purchased the pro version. -->
       <!-- Licensing information: https://bootstrapmade.com/license/ -->
       <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/ -->
-      Designed by <a href="#">faiz</a>
+      Designed by <a href="#">Rizmewekk</a>
     </div>
   </footer><!-- End Footer -->
 
